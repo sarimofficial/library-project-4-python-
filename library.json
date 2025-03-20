@@ -1,0 +1,32 @@
+ {
+    "title": "Artificial Intelligence: A Guide for Thinking Humans",
+    "author": "Melanie Mitchell",
+    "publication_year": 2019,
+    "genre": "AI, Non-Fiction",
+    "read_status": false,
+    "added_data": "2025-03-12-17:55:33"
+  },
+  {
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+    "publication_year": 2016,
+    "genre": "AI, Machine Learning",
+    "read_status": false,
+    "added_data": "2025-03-18-08:10:11"
+  },
+  {
+    "title": "The Metaverse: And How It Will Revolutionize Everything",
+    "author": "Matthew Ball",
+    "publication_year": 2022,
+    "genre": "Metaverse, Technology",
+    "read_status": true,
+    "added_data": "2025-03-19-21:44:00"
+  },
+  {
+    "title": "The Web3 Revolution",
+    "author": "Alex Tapscott",
+    "publication_year": 2023,
+    "genre": "Web3, Blockchain",
+    "read_status": false,
+    "added_data": "2025-03-15-18:30:22"
+  },
