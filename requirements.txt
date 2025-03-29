@@ -1,5 +1,1 @@
-Streamlit ==1.1.42.1
-pandas==2.2.3
-plotly==5.18.0
-streamlit-lottie
-requests==2.31.0
+
